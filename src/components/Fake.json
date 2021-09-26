@@ -1,0 +1,145 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Sarah Perez",
+    "title": "This Week in Apps: PayPal launches 'super app,' Twitter adds crypto tips, Apple won't take Fortnite back",
+    "description": "Welcome back to This Week in Apps, the weekly TechCrunch series that recaps the latest in mobile OS news, mobile applications and the overall app economy. The app industry continues to grow, with a record 218 billion downloads and $143 billion in global consu…",
+    "url": "https://techcrunch.com/2021/09/25/this-week-in-apps-paypal-launches-super-app-twitter-adds-crypto-tips-apple-wont-take-fortnite-back/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/10/this-week-in-apps-splash-2.png?w=753",
+    "publishedAt": "2021-09-25T17:30:01Z",
+    "content": "Welcome back to This Week in Apps, the weekly TechCrunch series that recaps the latest in mobile OS news, mobile applications and the overall app economy.\r\nThe app industry continues to grow, with a … [+20127 chars]"
+    },
+
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Natasha Mascarenhas",
+    "title": "When the biggest Disruption is to just sit down and focus",
+    "description": "Welcome to Startups Weekly, a fresh human-first take on this week’s startup news and trends. To get this in your inbox, subscribe here.  And just like that, TechCrunch Disrupt 2021 has come to an end. I’m exhausted, but it’s hard not to feel optimistic for th…",
+    "url": "https://techcrunch.com/2021/09/25/when-the-biggest-disruption-is-to-just-sit-down-and-focus/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/02/GettyImages-665047728.jpg?w=600",
+    "publishedAt": "2021-09-25T17:08:04Z",
+    "content": "Welcome to Startups Weekly, a fresh human-first take on this weeks startup news and trends. To get this in your inbox, subscribe here. \r\nAnd just like that, TechCrunch Disrupt 2021 has come to an end… [+5085 chars]"
+    },
+
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Alex Wilhelm",
+    "title": "Why my new NFT is worth nearly $400 and other observations from a fascinating week in tech",
+    "description": "Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter for your weekend enjoyment.",
+    "url": "https://techcrunch.com/2021/09/25/2208197/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/06/NSussman_Techcrunch_Exchange-multicolor.jpg?w=533",
+    "publishedAt": "2021-09-25T17:02:21Z",
+    "content": "Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. Its inspired by what the weekday Exchange column digs into, but free, and made for your weekend reading. Want it in … [+3670 chars]"
+    },
+    
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Tom Rutledge",
+    "title": "Why MPG should matter for electric vehicles",
+    "description": "We already have a common denominator for the EV age: the kilowatt-hour. A familiar, tangible energy unit that gives us an apples-to-apples way to think about cost, efficiency and pollution.",
+    "url": "https://techcrunch.com/2021/09/25/why-mpg-should-matter-for-electric-vehicles/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/09/GettyImages-88624468.jpg?w=600",
+    "publishedAt": "2021-09-25T14:07:20Z",
+    "content": "If saving the environment is merely a lifestyle choice, the automakers and their latest electric vehicles have got us covered. Teslas Plaid touts performance. Leafs, Priuses and Volts preach humility… [+3626 chars]"
+    },
+
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Alex Wilhelm",
+    "title": "Daily Crunch: Chinese regulators issue blanket ban on crypto trading, mining",
+    "description": "Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.",
+    "url": "https://techcrunch.com/2021/09/24/daily-crunch-68/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/05/GettyImages-919078630-2.jpg?w=600",
+    "publishedAt": "2021-09-24T22:10:51Z",
+    "content": "To get a roundup of TechCrunchs biggest and most important stories delivered to your inbox every day at 3 p.m. PDT, subscribe here.\r\nHello and welcome to Daily Crunch for September 24, 2021. Hanging … [+5570 chars]"
+    },
+
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Walter Thompson, Annie Saunders",
+    "title": "Extra Crunch roundup: Here's everything you missed at TechCrunch Disrupt 2021",
+    "description": "If that headline sounded judgmental, I apologize.",
+    "url": "https://techcrunch.com/2021/09/24/extra-crunch-roundup-heres-everything-you-missed-at-techcrunch-disrupt-2021/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/09/disrupt-cup.jpg?w=651",
+    "publishedAt": "2021-09-24T21:24:50Z",
+    "content": "If that headline sounded judgmental, I apologize.\r\nWe just wrapped up a three-day virtual event that included discussions and interviews with some of the most notable people in technology, media, gov… [+16315 chars]"
+    },
+
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Priyanka Srinivas",
+    "title": "Aiming to create a gender-equitable startup landscape?",
+    "description": "Only by leaving behind inclusivity lip service and taking decisive actions to bring women into funds and encourage them as founders will we start to achieve gender equity in the startup world.",
+    "url": "https://techcrunch.com/2021/09/24/aiming-to-create-a-gender-equitable-startup-landscape/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/07/GettyImages-593387043.jpg?w=559",
+    "publishedAt": "2021-09-24T21:21:18Z",
+    "content": "When it comes to gender equality in the business world, Facebook COO Sheryl Sandberg hit the nail on the head: Knowing that things could be worse should not stop us from trying to make them better.\r\n… [+6878 chars]"
+    },
+
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Ingrid Lunden",
+    "title": "Yahoo has built a new calendar app called Day, and it's recruited the co-founder of Sunrise to design it",
+    "description": "When it comes to online calendars and calendar apps, services like Google Calendar and Outlook from Microsoft rule the roost with hundreds of millions of users globally. Now another company is hoping to ruffle some feathers with its own move into the space. T…",
+    "url": "https://techcrunch.com/2021/09/24/yahoo-has-built-a-new-calendar-app-called-day-and-its-recruited-the-co-founder-of-sunrise-to-design-it/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/09/day.co_.jpg?w=581",
+    "publishedAt": "2021-09-24T20:22:18Z",
+    "content": "When it comes to online calendars and calendar apps, services like Google Calendar and Outlook from Microsoft rule the roost with hundreds of millions of users globally. Now another company is hoping… [+4306 chars]"
+    },
+
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Alexandra Ames",
+    "title": "Tess Hatch joins us at TC Sessions Space this December",
+    "description": "This year has been one of the busiest yet in terms of new commercial launch companies coming online, with companies like Astra and Firefly Aerospace actually getting rockets up and running (if not flying ad designed quite yet), and with landmark human spacefl…",
+    "url": "https://techcrunch.com/2021/09/24/tess-hatch-joins-us-at-tc-sessions-space-this-december/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/09/TC21_Space_Speaker_Tess_Hatch.png?w=711",
+    "publishedAt": "2021-09-24T17:48:54Z",
+    "content": "This year has been one of the busiest yet in terms of new commercial launch companies coming online, with companies like Astra and Firefly Aerospace actually getting rockets up and running (if not fl… [+1179 chars]"
+    },
+    
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Devin Coldewey",
+    "title": "FCC showers schools across the U.S. with $1.2B from Emergency Connectivity Fund",
+    "description": "The FCC has sent out the first checks from its Emergency Connectivity Fund, an effort to help close the “homework gap” at schools by covering the cost of computers and internet services. Thousands of school districts, in every state plus D.C., Guam and Puerto…",
+    "url": "https://techcrunch.com/2021/09/24/fcc-showers-schools-across-the-u-s-with-1-2b-from-emergency-connectivity-fund/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/08/udacity-online-classroom-tablets-laptops.png?w=711",
+    "publishedAt": "2021-09-24T17:06:45Z",
+    "content": "The FCC has sent out the first checks from its Emergency Connectivity Fund, an effort to help close the “homework gap” at schools by covering the cost of computers and internet services. Thousands of… [+2228 chars]"
+    }
+    ]
+    }

@@ -1,0 +1,10 @@
+.news_card {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  margin: 20px auto;
+}
+
+.news_item {
+  margin: 50px;
+}
